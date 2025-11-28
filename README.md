@@ -33,7 +33,8 @@ Welcome to my Data Analyst Portfolio. I am an analytical and detail-driven Data 
 - [Project 5: Pizza Sales Analysis](#project-5-pizza-sales-analysis-sql-project)
 - [Project 6: Diwali Sales Analysis ](#project-6-diwali-sales-analysis-python-project)
 - [Project 7: Netflix Data Analysis ](#project-7-netflix-data-analysis-python-project)
-- [Project 8: Retail Store Sales Analysis ](#project-8-retail-store-sales-analysis-excel-project)
+- [Project 8: Retail Store Sales Analysis ](#project-8-retail-store-sales-analysis-excel-project) 
+- [Project 9: HR Analytics – Attendance Monitoring](#project-9-hr-analytics---attendance-monitoring-power-bi-project)
 - [Certifications](#certifications)
 
 ---
@@ -133,6 +134,16 @@ This project conducts a comprehensive analysis of a retail store’s annual sale
 
 ---
 
+### [Project 9: HR Analytics - Attendance Monitoring (Power BI Project)](https://github.com/Neha-Ydv/HR-Analytics-Attendance-Work-Behavior-Dashboard.git)
+This Power BI project analyzes employee attendance patterns using interactive visualizations and HR-focused KPIs. The dashboard tracks Presence %, Work From Home %, Sick Leave %, Medical Leave, and overall workforce behavior across months and weekdays. It helps HR teams identify patterns in employee availability, monitor work behavior trends, and make data-driven decisions to improve productivity.
+
+**Tools Used:** Power BI, Excel, Power Query, DAX
+
+**Project Link:** [GitHub Repo](https://github.com/Neha-Ydv/HR-Analytics-Attendance-Work-Behavior-Dashboard.git)  
+
+<img width="1285" height="715" alt="dashboard" src="https://github.com/user-attachments/assets/4c4ce0e1-0277-4657-b780-f4da6b6a0970" />
+
+---
 
 ## Certifications
 
@@ -144,8 +155,8 @@ This project conducts a comprehensive analysis of a retail store’s annual sale
 
 ## Contact Information
 
-- **Email:** [neha.ydv@email.com](mailto:nehayadav202120@gmail.com)
-- **LinkedIn:** [linkedin.com/in/neha-ydv](www.linkedin.com/in/neha-yadav-2a0711219)
+- [**Email:**](mailto:nehayadav202120@gmail.com)
+- [**LinkedIn:**](www.linkedin.com/in/neha-yadav-2a0711219)
   
 
 ---
@@ -159,7 +170,7 @@ This project conducts a comprehensive analysis of a retail store’s annual sale
 ## Author
 
 - [GitHub](https://github.com/Neha-Ydv)
-- [LinkedIn](https://linkedin.com/in/neha-ydv)
+- [LinkedIn](www.linkedin.com/in/neha-yadav-2a0711219)
 
 ---
   
