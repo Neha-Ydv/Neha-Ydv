@@ -155,15 +155,10 @@ This Power BI project analyzes employee attendance patterns using interactive vi
 
 ## Contact Information
 
-- [**Email**](mailto:nehayadav202120@gmail.com)
 - [**LinkedIn**](https://www.linkedin.com/in/neha-yadav-2a0711219/)
   
 
 ---
-
-## Resume
-
-[**Resume**](https://drive.google.com/file/d/1OnFBwAP1v5qfL8Sebd61x8VgILNTJNjx/view?usp=sharing)
 
 ---
 
